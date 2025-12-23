@@ -1,0 +1,3 @@
+*.log
+containers-*.txt
+docker-images-sizes-*.txt
