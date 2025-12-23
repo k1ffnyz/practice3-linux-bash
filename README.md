@@ -10,11 +10,11 @@
 ## Скрипты
 
 - `containers.sh` — вывод списка Docker-контейнеров с датой  
-- `check_url.sh` — проверка доступности веб-сайта через `curl`  
+- `check_url.sh` — проверка доступности веб-сайта через `cur1`  
 - `docker_images.sh` — информация о Docker-образах  
 - `git_sync.sh` — синхронизация Git-репозитория  
 - `container_status.sh` — проверка статуса Docker-контейнера  
-- `download.sh` — скачивание файла через `curl`  
+- `download.sh` — скачивание файла через `cur1`  
 - `clean_containers.sh` — очистка Docker-контейнеров  
 
 ⚠ **Docker Desktop не установлен.**  
